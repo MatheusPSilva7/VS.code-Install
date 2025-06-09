@@ -1,4 +1,4 @@
-/Let's instal VS.code in LinuxMint.
+/Let's install VS.code in LinuxMint.
 
 Pass by Pass
 
